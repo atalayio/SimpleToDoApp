@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/American Typewriter Bold.ttf",
+      "sha1": "c8ee8f3af30bc1fbfa322cba8233a7ef5c523e72"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    }
+  ]
+}
